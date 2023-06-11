@@ -35,7 +35,7 @@ python analise_vendas.py
 ```
 
 ## Resultado da análise de dados da planilha vendas.xlsx
-![Gráfico de Barras - Faturamento por Produto](hercullys/introducaoAnaliseDeDados/GraficoBarrasFaturamentoPorProduto.png)
+![Gráfico de Barras - Faturamento por Produto](/GraficoBarrasFaturamentoPorProduto.png)
 
 
 9. O programa exibirá o faturamento total das vendas, a análise do faturamento por loja e a análise do faturamento por produto.
