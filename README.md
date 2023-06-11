@@ -34,6 +34,9 @@ pip install pandas
 python analise_vendas.py
 ```
 
+## Resultado da análise de dados da planilha vendas.xlsx
+![Gráfico de barras faturamento por produto e loja](/IntroducaoAnaliseDeDados/GraficoBarrasFaturamentoPorProduto.png)
+
 9. O programa exibirá o faturamento total das vendas, a análise do faturamento por loja e a análise do faturamento por produto.
 
 ## Observações
